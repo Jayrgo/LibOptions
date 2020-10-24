@@ -1,0 +1,14 @@
+# Interface: 
+## Title: LibOptions |cffbebebeby Jayrgo|r
+## Author: Jayrgo
+## Version: 1.0.0
+
+LibOptions.lua
+
+Widgets\Button.lua
+Widgets\CheckButton.lua
+Widgets\ColorSelect.lua
+Widgets\Dropdown.lua
+Widgets\EditBox.lua
+Widgets\Header.lua
+Widgets\Slider.lua
